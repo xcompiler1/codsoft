@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "shivam",
+        "phone": "87555555",
+        "email": "rewnmbm@gmail.com",
+        "address": ""
+    },
+    {
+        "id": 2,
+        "name": "alok",
+        "phone": "9922444444",
+        "email": "alok1234@gmail.com",
+        "address": "darbhanga,bihar"
+    }
+]
